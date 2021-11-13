@@ -1,4 +1,4 @@
-<img src ="![Git_Banner](https://user-images.githubusercontent.com/90926044/141658485-b2f37f76-ca0a-4e05-ab97-4f196fa69f5f.png)" alt="my-banner">
+<img src ="https://user-images.githubusercontent.com/90926044/141658485-b2f37f76-ca0a-4e05-ab97-4f196fa69f5f.png" alt="my-banner">
 
 ### Hi there 👋
 
