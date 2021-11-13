@@ -1,7 +1,10 @@
 <p align ="center">
 <img width="800" src ="https://user-images.githubusercontent.com/90926044/141658485-b2f37f76-ca0a-4e05-ab97-4f196fa69f5f.png" alt="my-banner">
 </p>
-### Hi there 👋
+
+<h3 align="center">
+Hi there 👋
+</h3>
 
 <!--
 **agruezo/agruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
