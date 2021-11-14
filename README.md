@@ -3,10 +3,19 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Alex 👋
+Hi there, I'm Alex 👋🏽
 </h3>
 
-<!--
+<h2 align="center">Full-Stack Developer 💻 —— Fitness Coach 🏋🏽‍♂️ —— Martial Arts Instructor 🥋</h2>
+
+I believe in constant never-ending improvement physically, mentally, and spiritually. And I achieve this through physical training, coding and reading, and practicing Filipino martial arts.
+
+I truly enjoy the process of identifying problems and creating solutions.
+  
+## 🌱 I’m currently learning
+<!-- <img width ="32" src="https://cutecdn.codingdojo.com/new_design_image/new_programs/optimized/html-course-icon-lg.png" alt ="html-5"><img width="32" src="https://cutecdn.codingdojo.com/new_design_image/new_programs/optimized/css-course-icon-lg.png" alt ="css3"><img width ="32" src="https://cutecdn.codingdojo.com/new_design_image/new_programs/optimized/javascript-course-icon-lg.png" alt ="javascript"> -->
+
+  <!--
 **agruezo/agruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
