@@ -13,7 +13,9 @@ I believe in constant never-ending improvement physically, mentally, and spiritu
 I truly enjoy the process of identifying problems and creating solutions.
   
 ## 🌱 I’m currently learning
-<img width ="16" src="images/html-course-icon-lg.png" alt ="html-5"><img width="32" src="https://cutecdn.codingdojo.com/new_design_image/new_programs/optimized/css-course-icon-lg.png" alt ="css3"><img width ="32" src="https://cutecdn.codingdojo.com/new_design_image/new_programs/optimized/javascript-course-icon-lg.png" alt ="javascript">
+<img width ="24" src="images/html-course-icon-lg.png" alt ="html-5">HTML 5</br>
+<img width="24" src="images/css-course-icon-lg.png" alt ="css3">CSS3</br>
+<img width ="24" src="images/javascript-course-icon-lg.png" alt ="javascript">JavaScript
 
   <!--
 **agruezo/agruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
