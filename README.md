@@ -6,13 +6,13 @@
 Hi there, I'm Alex 👋🏽
 </h3>
 
-<h2 align="center">Full-Stack Developer 💻 —— Fitness Coach 🏋🏽‍♂️ —— Martial Arts Instructor 🥋</h2>
+<h2 align="center">Full-Stack Developer 💻 — Fitness Coach 🏋🏽‍♂️ — Martial Arts Instructor 🥋</h2>
 
-I believe in constant never-ending improvement physically, mentally, and spiritually. And I achieve this through physical training, coding and reading, and practicing Filipino martial arts.
+I believe in constant never-ending improvement physically, mentally, and spiritually. And I achieve this through exercise and physical activity, coding and reading, and teaching and practicing Filipino martial arts.
 
 I use my various skill sets to design, develop, and problem solve.
  
-## 🌱 What I Learned at Coding Dojo
+## 🌱 What I Am Learning at Coding Dojo
 Web Fundamentals (HTML, CSS, JavaScript)</br></br>
 <img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5">
 <img width="24" src="images/css-course-icon-lg.png" alt ="CSS3">
