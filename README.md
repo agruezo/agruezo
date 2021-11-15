@@ -13,7 +13,7 @@ I believe in constant never-ending improvement physically, mentally, and spiritu
 I use my various skill sets to help my clients achieve their goals and/or solve problems they have.
  
 ## 🌱 I’m currently learning
-<img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5"><img width="24" src="images/css-course-icon-lg.png" alt ="CSS3"><img width ="24" src="images/javascript-course-icon-lg.png" alt ="JavaScript"><img width="24" src="" alt ="Bootstrap"></br>
+<img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5"><img width="24" src="images/css-course-icon-lg.png" alt ="CSS3"><img width ="24" src="images/javascript-course-icon-lg.png" alt ="JavaScript"></br>
 Python Full Stack</br>
 <img width ="24" src="images/python-course-icon.png" alt ="Python">
 <img width="24" src="images/mysql-course-icon.png" alt ="MySQL">
