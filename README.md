@@ -8,9 +8,7 @@ Hi there, I'm Alex 👋🏽
 
 <h2 align="center">Full-Stack Developer 💻 — Fitness Coach 🏋🏽‍♂️ — Martial Arts Instructor 🥋</h2>
 
-I believe in constant never-ending improvement physically, mentally, and spiritually. And I achieve this through exercise and physical activity, coding and reading, and teaching and practicing Filipino martial arts.
-
-I use my various skill sets to design, develop, and problem solve.
+I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions.
  
 ## 🌱 What I Am Learning at Coding Dojo
 Web Fundamentals (HTML, CSS, JavaScript)</br></br>
