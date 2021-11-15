@@ -43,6 +43,15 @@ Java Full Stack (Java 8, JSP, Spring MVC, MySQL, (JPA) Hibernate, JUnit, Thyme L
 <img width ="24" src="images/tomcat-course-icon.png" alt ="Tomcat">
 <img width ="24" src="images/jvm-course-icon.png" alt ="JVM"></br>
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agruezo&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=agruezo&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
   <!--
 **agruezo/agruezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
