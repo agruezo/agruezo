@@ -51,39 +51,39 @@ I've, therefore, decided an "informal" degree through self education primarily t
 
 https://teachyourselfcs.com/
 
-1. **Programming**
+1. **Programming** (December 2021 - in progress)
    - Book: *Structure and Interpretation of Computer Programs*
    - Video: Brian Harvey’s Berkeley CS 61A
 
-2. **Computer Architecture**
+2. **Computer Architecture** (not started)
    - Book: *Structure and Interpretation of Computer Programs*
    - Video: Berkeley CS 61C
 
-3. **Algorithms and Data Structues**
+3. **Algorithms and Data Structues** (not started)
    - Book: *The Algorithm Design Manual*
    - Video: Steven Skiena’s lectures
 
-4. **Math for CS**
+4. **Math for CS** (not started)
    - Book: *Mathematics for Computer Science*
    - Video: Tom Leighton’s MIT 6.042J
 
-5. **Operating Systems**
+5. **Operating Systems** (not started)
    - Book: *Operating Systems: Three Easy Pieces*
    - Video: Berkeley CS 162
 
-6. **Computer Networking**
+6. **Computer Networking** (not started)
    - Book: *Computer Networking: A Top-Down Approach*
    - Video: Stanford CS 144
    
-7. **Databases**
+7. **Databases** (not started)
    - Book: *Readings in Database Systems*
    - Video: Joe Hellerstein’s Berkeley CS 186
 
-8. **Languages and Compilers**
+8. **Languages and Compilers** (not started)
    - Book: *Crafting Interpreters*
    - Video: Alex Aiken’s course on edX
 
-9. **Distributed Systems**
+9. **Distributed Systems** (not started)
    - Book: *Designing Data-Intensive Applications*
    - Video: MIT 6.824
 
