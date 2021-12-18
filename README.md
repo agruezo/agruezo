@@ -43,6 +43,54 @@ Java Full Stack (Java 8, JSP, Spring MVC, MySQL, (JPA) Hibernate, JUnit, Thyme L
 
 ---
 
+## 📓 What I Am Learning on My Own (DIY CS degree)
+
+I have B.S. in Pyschobiology and an M.S. Exercise Science and Health Promotion. It's been over 15 years since I was last in academia. And as I transition into a career in software engineering, the desire to pursue a degree in Computer Science is there but due other obligations and responsibilities, this will be difficult.
+
+I've, therefore, decided an "informal" degree through self education primarily through the curriculum outline in the link below:
+
+https://teachyourselfcs.com/
+
+1. **Programming**
+   - Book: *Structure and Interpretation of Computer Programs*
+   - Video: Brian Harvey’s Berkeley CS 61A
+
+2. **Computer Architecture**
+   - Book: *Structure and Interpretation of Computer Programs*
+   - Video: Berkeley CS 61C
+
+3. **Algorithms and Data Structues**
+   - Book: *The Algorithm Design Manual*
+   - Video: Steven Skiena’s lectures
+
+4. **Math for CS**
+   - Book: *Mathematics for Computer Science*
+   - Video: Tom Leighton’s MIT 6.042J
+
+5. **Operating Systems**
+   - Book: *Operating Systems: Three Easy Pieces*
+   - Video: Berkeley CS 162
+
+6. **Computer Networking**
+   - Book: *Computer Networking: A Top-Down Approach*
+   - Video: Stanford CS 144
+   
+7. **Databases**
+   - Book: *Readings in Database Systems*
+   - Video: Joe Hellerstein’s Berkeley CS 186
+
+8. **Languages and Compilers**
+   - Book: *Crafting Interpreters*
+   - Video: Alex Aiken’s course on edX
+
+9. **Distributed Systems**
+   - Book: *Designing Data-Intensive Applications*
+   - Video: MIT 6.824
+
+I will also be supplementing with classes on COURSERA, EdX, Udemy, and wherever I can find when need be.
+ 
+---
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agruezo&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
