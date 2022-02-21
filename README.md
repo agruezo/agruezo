@@ -45,7 +45,7 @@ Java Full Stack (Java 8, JSP, Spring MVC, MySQL, (JPA) Hibernate, JUnit, Thyme L
 
 ## 📓 What I Am Learning on My Own (DIY CS degree)
 
-I have B.S. in Pyschobiology and an M.S. Exercise Science and Health Promotion. It's been over 15 years since I was last in academia. And as I continue to improve my software engineering skills, the desire to pursue a degree in Computer Science is there, but due to other obligations and responsibilities, this will be difficult.
+I have a B.S. in Pyschobiology and an M.S. Exercise Science and Health Promotion. It's been over 15 years since I was last in academia. And as I continue to improve my software engineering skills, the desire to pursue a degree in Computer Science is there, but due to other obligations and responsibilities, this will be difficult.
 
 I've, therefore, decided to pursue an "informal" degree through self-education primarily through the curriculum outlined in the link below:
 
