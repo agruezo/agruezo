@@ -47,7 +47,7 @@ Java Full Stack (Java 8, JSP, Spring MVC, MySQL, (JPA) Hibernate, JUnit, Thyme L
 
 For those of you who are like me and late in the game or thinking about transitoning careers, this is an amazing resource for your own personal development or if you're interested in having having a college level education but can't attend formal schooling for whatever reason.
 
-This is curriculum can be found in the link below:
+This curriculum can be found in the link below:
 
 https://teachyourselfcs.com/
 
