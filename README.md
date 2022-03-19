@@ -43,11 +43,11 @@ Java Full Stack (Java 8, JSP, Spring MVC, MySQL, (JPA) Hibernate, JUnit, Thyme L
 
 ---
 
-## 📓 What I Am Learning on My Own (DIY CS degree)
+## 📓 Some Helpful Resources (DIY CS degree)
 
-I have a B.S. in Pyschobiology and an M.S. Exercise Science and Health Promotion. It's been over 15 years since I was last in academia. And as I continue to improve my software engineering skills, the desire to pursue a degree in Computer Science is there, but due to other obligations and responsibilities, this will be difficult.
+For those of you who are like me and late in the game or thinking about transitoning careers, this is an amazing resource for your own personal development or if you're interested in having having a college level education but can't attend formal schooling for whatever reason.
 
-I've, therefore, decided to pursue an "informal" degree through self-education primarily through the curriculum outlined in the link below:
+This is curriculum can be found in the link below:
 
 https://teachyourselfcs.com/
 
