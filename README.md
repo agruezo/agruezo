@@ -56,7 +56,7 @@ https://teachyourselfcs.com/
    - Video: Brian Harvey’s Berkeley CS 61A
 
 2. **Computer Architecture** (not started)
-   - Book: *Structure and Interpretation of Computer Programs*
+   - Book: *Computer Systems: A Programmer's Perspective*
    - Video: Berkeley CS 61C
 
 3. **Algorithms and Data Structures** (not started)
