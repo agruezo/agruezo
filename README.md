@@ -87,8 +87,6 @@ https://teachyourselfcs.com/
    - Book: *Designing Data-Intensive Applications*
    - Video: MIT 6.824
 
-I will also be supplementing with classes on COURSERA, EdX, Udemy, and wherever I can find when need be.
- 
 ---
 
 ## &#x1f4c8; My GitHub Stats
