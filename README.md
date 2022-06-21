@@ -51,39 +51,39 @@ This curriculum can be found in the link below:
 
 https://teachyourselfcs.com/
 
-1. **Programming** (December 2021 - in progress)
+1. **Programming**
    - Book: *Structure and Interpretation of Computer Programs*
    - Video: Brian Harvey’s Berkeley CS 61A
 
-2. **Computer Architecture** (not started)
+2. **Computer Architecture**
    - Book: *Computer Systems: A Programmer's Perspective*
    - Video: Berkeley CS 61C
 
-3. **Algorithms and Data Structures** (not started)
+3. **Algorithms and Data Structures**
    - Book: *The Algorithm Design Manual*
    - Video: Steven Skiena’s lectures
 
-4. **Math for CS** (not started)
+4. **Math for CS**
    - Book: *Mathematics for Computer Science*
    - Video: Tom Leighton’s MIT 6.042J
 
-5. **Operating Systems** (not started)
+5. **Operating Systems**
    - Book: *Operating Systems: Three Easy Pieces*
    - Video: Berkeley CS 162
 
-6. **Computer Networking** (not started)
+6. **Computer Networking**
    - Book: *Computer Networking: A Top-Down Approach*
    - Video: Stanford CS 144
    
-7. **Databases** (not started)
+7. **Databases**
    - Book: *Readings in Database Systems*
    - Video: Joe Hellerstein’s Berkeley CS 186
 
-8. **Languages and Compilers** (not started)
+8. **Languages and Compilers**
    - Book: *Crafting Interpreters*
    - Video: Alex Aiken’s course on edX
 
-9. **Distributed Systems** (not started)
+9. **Distributed Systems**
    - Book: *Designing Data-Intensive Applications*
    - Video: MIT 6.824
 
