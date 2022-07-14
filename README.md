@@ -6,7 +6,7 @@
 Hi there, I'm Alex 👋🏽
 </h3>
 
-<h2 align="center">Full-Stack Developer 💻 — Fitness Coach 🏋🏽‍♂️ — Martial Arts Instructor 🥋</h2>
+<h2 align="center">Full-Stack Developer 💻 — Fitness Enthusias 🏋🏽‍♂️ — Martial Artist 🥋</h2>
 
 I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions.
  
