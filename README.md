@@ -10,7 +10,7 @@ Hi there, I'm Alex 👋🏽
 
 I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions.
  
-## 🌱 What I Have at Coding Dojo
+## 🌱 What I Have Learned at Coding Dojo
 Web Fundamentals (HTML, CSS, JavaScript)</br></br>
 <img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5">
 <img width="24" src="images/css-course-icon-lg.png" alt ="CSS3">
