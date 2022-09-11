@@ -15,7 +15,7 @@ Web Fundamentals (HTML, CSS, JavaScript)</br></br>
 <img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5">
 <img width="24" src="images/css-course-icon-lg.png" alt ="CSS3">
 <img width ="24" src="images/javascript-course-icon-lg.png" alt ="JavaScript"></br></br>
-Python Full Stack (Python, MySQL, Flask, Ajax, APIs, jQuery</br></br>
+Python Full Stack (Python, MySQL, Flask, Ajax, APIs, jQuery)</br></br>
 <img width ="24" src="images/python-course-icon.png" alt ="Python">
 <img width="24" src="images/mysql-course-icon.png" alt ="MySQL">
 <img width ="24" src="images/flask-course-icon.png" alt ="Flask">
