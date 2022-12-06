@@ -6,7 +6,7 @@
 Hi there, I'm Alex 👋🏽
 </h3>
 
-<h2 align="center">Developer 💻 — Fitness Enthusiast 🏋🏽‍♂️ — Martial Artist 🥋</h2>
+<h2 align="center">Developer/IT 💻 — Fitness Enthusiast 🏋🏽‍♂️ — Martial Artist 🥋</h2>
 <p align="center">
 <img width="100" src="https://user-images.githubusercontent.com/90926044/205995096-4b36e5bd-db46-4776-a578-cb09f1fdb7b4.png" alt="aplus">
 </p>
