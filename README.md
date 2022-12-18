@@ -93,10 +93,14 @@ https://teachyourselfcs.com/
 --- -->
 ## 👨🏽‍💻 Software Projects:
 
-- <b>Cloud Resume Challenge</b>
+- <b>Static S3 Website Deployment via Terrafrom</b>
   - [Cloud Resume Challenge](https://github.com/agruezo/cloudresumechallenge)
+- <b>Microservices, Containers, and Serverless Deployment</b>
+  - [Deploying Containerized Flask and React Microservices On EC2](https://github.com/agruezo/flask-react-aws-ec2)
+- <b>Solo Project Final Exam For Coding Dojo</b>
+  - [Instructor Portal App](https://github.com/agruezo/instructorportal-python)
 
-## 👨🏽‍💻 💻 Information Technology Projects:
+## 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/agruezo/azure-network-protocols)
