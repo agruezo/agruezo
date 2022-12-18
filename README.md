@@ -91,8 +91,12 @@ https://teachyourselfcs.com/
    - Video: MIT 6.824
 
 --- -->
+## 👨🏽‍💻 Software Projects:
 
-## 👨‍💻 Information Technology Projects:
+- <b>Cloud Resume Challenge</b>
+  - [Cloud Resume Challenge](https://github.com/agruezo/cloudresumechallenge)
+
+## 👨🏽‍💻 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/agruezo/azure-network-protocols)
