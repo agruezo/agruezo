@@ -2,18 +2,18 @@
 <img width="800" src="https://user-images.githubusercontent.com/90926044/176764157-4006a331-c8aa-4452-87e1-c265e5c3c69f.jpg" alt="my-banner">
 </p>
 
-<h3 align="center">
-Hi there, I'm Alex 👋🏽
-</h3>
-
-<h2 align="center">Developer/IT 💻 — Fitness Enthusiast 🏋🏽‍♂️ — Martial Artist 🥋</h2>
+<h2 align="center">
+Hi there! 👋🏽
+<br>
+I'm Alex, a <a href="https://www.linkedin.com/in/alexandergruezo/">Software Developer and IT Professional</a> 💻
+</h2>
 <p align="center">
 <img width="100" src="https://user-images.githubusercontent.com/90926044/205995096-4b36e5bd-db46-4776-a578-cb09f1fdb7b4.png" alt="aplus">
 </p>
  
-I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions.
+I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions. And when you don't catch me on my laptop, you'll find me working out, teaching martial arts, or spending time with my family.
  
-## 🌱 What I Have Learned at Coding Dojo
+<!-- ## 🌱 What I Have Learned at Coding Dojo
 Web Fundamentals (HTML, CSS, JavaScript)</br></br>
 <img width ="24" src="images/html-course-icon-lg.png" alt ="HTML-5">
 <img width="24" src="images/css-course-icon-lg.png" alt ="CSS3">
@@ -90,7 +90,18 @@ https://teachyourselfcs.com/
    - Book: *Designing Data-Intensive Applications*
    - Video: MIT 6.824
 
----
+--- -->
+
+## 👨‍💻 Information Technology Projects:
+
+- <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/agruezo/azure-network-protocols)
+<!--   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad) -->
+<!-- - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle) -->
+
 
 ## &#x1f4c8; My GitHub Stats
 
