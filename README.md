@@ -105,9 +105,9 @@ https://teachyourselfcs.com/
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/agruezo/azure-network-protocols)
   - [Configuring (On-premises) Active Directory Within Azure](https://github.com/agruezo/configure-active-directory)
-<!-- - <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/agruezo/osticket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/agruezo/post-install-config)
+<!--   - [osTicket: Post-Installation Configuration](https://github.com/agruezo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/agruezo/ticket-lifecycle) -->
 
 
