@@ -108,7 +108,7 @@ https://teachyourselfcs.com/
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/agruezo/osticket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/agruezo/post-install-config)
-<!--   - [osTicket: Ticket Lifecycle Examples](https://github.com/agruezo/ticket-lifecycle) -->
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/agruezo/ticket-lifecycle)
 
 
 ## &#x1f4c8; My GitHub Stats
