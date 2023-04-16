@@ -5,7 +5,7 @@
 <h2 align="center">
 Hi there! 👋🏽
 <br>
-I'm Alex, a <a href="https://www.linkedin.com/in/alexandergruezo/">Software Developer and IT Professional</a> 💻
+I'm Alex, a <a href="https://www.linkedin.com/in/alexandergruezo/">Software Support Engineer and IT Professional</a> 💻
 </h2>
 <p align="center">
 <img width="100" src="https://user-images.githubusercontent.com/90926044/205995096-4b36e5bd-db46-4776-a578-cb09f1fdb7b4.png" alt="aplus">
