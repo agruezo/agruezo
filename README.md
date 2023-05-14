@@ -15,6 +15,9 @@ I'm Alex, a <a href="https://www.linkedin.com/in/alexandergruezo/">Software Supp
 <p align="center">
 <img width="150" src="https://user-images.githubusercontent.com/90926044/232340233-095fd401-b0d8-452f-a5b2-13fc79efa496.png" alt="itops">
 </p>
+<p align="center">
+<img width="107" src="https://github.com/agruezo/agruezo/assets/90926044/0e1782f2-26b1-4271-a55b-8fd2b22e56cf" alt="secinfra">
+</p>
  
 I enjoy using my various skill sets to design, develop, and problem solve. I'm passionate about my work and my work is about my passions. And when you don't catch me on my laptop, you'll find me working out, teaching martial arts, or spending time with my family.
  
